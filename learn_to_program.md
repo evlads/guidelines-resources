@@ -225,6 +225,8 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Understanding Git Concepts](http://www.sbf5.com/~cduan/technical/git/)
 *   [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
 *   [Github Guides](https://guides.github.com/)
+*   [Git the simple Guide](http://rogerdudler.github.io/git-guide/)
+
 
 
 #####InfoSec
