@@ -55,6 +55,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
 *   [Udemy: Learn the Foundations of HTML] (https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
 *   [Learn to Code Advanced HTML & CSS] (http://learn.shayhowe.com/advanced-html-css/performance-organization/)
+*   [Centering in CSS: A Complete Guide] (https://css-tricks.com/centering-css-complete-guide/)
 
 ##### iOS
 *   Paul Hegarty's Stanford class CS193p on iTunes U:
